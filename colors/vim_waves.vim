@@ -101,7 +101,7 @@ if &background ==# 'dark'
   hi Label ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Macro ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Number ctermfg=176 ctermbg=NONE guifg=#e697e6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Operator ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Operator ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=133 ctermbg=NONE guifg=#a45bad guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreProc ctermfg=177 ctermbg=NONE guifg=#f3f1bf guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Repeat ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -479,11 +479,11 @@ if &background ==# 'dark'
     hi! link jsUndefined ErrorMsg
     hi jsClassDefinition ctermfg=136 ctermbg=NONE guifg=#f7ff81 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi! link jsObjectProp Identifier
-    hi jsObjectKey ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+    hi jsObjectKey ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi jsFunctionKey ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi jsBracket ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi jsObjectColon ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-    hi jsFuncArgs ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+    hi jsFuncArgs ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi jsFuncBraces ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi jsVariableDef ctermfg=249 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi! link jsObjectBraces Special
@@ -713,7 +713,7 @@ hi Keyword ctermfg=32 ctermbg=NONE guifg=#3a81c3 guibg=NONE guisp=NONE cterm=NON
 hi Label ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Macro ctermfg=61 ctermbg=NONE guifg=#715ab1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Number ctermfg=176 ctermbg=NONE guifg=#e697e6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Operator ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Operator ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreCondit ctermfg=53 ctermbg=NONE guifg=#4e3163 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreProc ctermfg=97 ctermbg=NONE guifg=#86589e guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Repeat ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -1090,11 +1090,11 @@ if get(g:, "waves_filetype_hi_groups", 1)
   hi! link jsUndefined ErrorMsg
   hi jsClassDefinition ctermfg=136 ctermbg=NONE guifg=#f7ff81 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link jsObjectProp Identifier
-  hi jsObjectKey ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi jsObjectKey ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi jsFunctionKey ctermfg=61 ctermbg=NONE guifg=#715ab1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi jsBracket ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi jsObjectColon ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi jsFuncArgs ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi jsFuncArgs ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi jsFuncBraces ctermfg=61 ctermbg=NONE guifg=#715ab1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi jsVariableDef ctermfg=60 ctermbg=NONE guifg=#655370 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link jsObjectBraces Special
@@ -1274,7 +1274,7 @@ finish
 " Color: red2       #f54e3c ~
 " Color: green      #5af78e ~
 " Color: green1     #2aa1ae ~
-" Color: blue0      #58b0d9 ~
+" Color: blue0      #ffc0cb ~
 " Color: blue       #67c7ff ~
 " Color: blue1      #e6d7d8 ~
 " Color: purple     #bc6ec5 ~
@@ -1844,7 +1844,7 @@ finish
 " Color: red        #ff5c57 ~
 " Color: red1       #ba2f59 ~
 " Color: red2       #f54e3c ~
-" Color: blue0      #58b0d9 ~
+" Color: blue0      #ffc0cb ~
 " Color: blue       #3a81c3 ~
 " Color: blue1      #715ab1 ~
 " Color: purple     #6c3163 ~
