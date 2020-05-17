@@ -95,7 +95,7 @@ if &background ==# 'dark'
   hi Function ctermfg=170 ctermbg=NONE guifg=#5af78e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Ignore ctermfg=fg ctermbg=NONE guifg=fg guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Include ctermfg=136 ctermbg=NONE guifg=#67c7ff guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Include ctermfg=136 ctermbg=NONE guifg=#535991 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   "hi Include ctermfg=136 ctermbg=NONE guifg=#f7ff81 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=32 ctermbg=NONE guifg=#67c7ff guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Label ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
