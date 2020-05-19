@@ -95,16 +95,16 @@ if &background ==# 'dark'
   hi Function ctermfg=170 ctermbg=NONE guifg=#5af78e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Identifier ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Ignore ctermfg=fg ctermbg=NONE guifg=fg guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Include ctermfg=136 ctermbg=NONE guifg=#535991 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Include ctermfg=136 ctermbg=NONE guifg=#ffcc52 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   "hi Include ctermfg=136 ctermbg=NONE guifg=#f7ff81 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Keyword ctermfg=32 ctermbg=NONE guifg=#67c7ff guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Label ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Macro ctermfg=68 ctermbg=NONE guifg=#e6d7d8 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Number ctermfg=176 ctermbg=NONE guifg=#e697e6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Operator ctermfg=74 ctermbg=NONE guifg=#FFCC52 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi Operator ctermfg=74 ctermbg=NONE guifg=#ffcc52 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   "hi Operator ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=133 ctermbg=NONE guifg=#a45bad guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PreProc ctermfg=177 ctermbg=NONE guifg=#FF6B8B guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreProc ctermfg=177 ctermbg=NONE guifg=#ff6b8b guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Repeat ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpecialChar ctermfg=80 ctermbg=NONE guifg=#28def0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpecialComment ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
