@@ -104,7 +104,7 @@ if &background ==# 'dark'
   hi Operator ctermfg=74 ctermbg=NONE guifg=#ffcc52 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   "hi Operator ctermfg=74 ctermbg=NONE guifg=#ffc0cb guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi PreCondit ctermfg=133 ctermbg=NONE guifg=#a45bad guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi PreProc ctermfg=177 ctermbg=NONE guifg=#ff6b8b guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreProc ctermfg=177 ctermbg=NONE guifg=#00cd66 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Repeat ctermfg=168 ctermbg=NONE guifg=#ff6ac1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpecialChar ctermfg=80 ctermbg=NONE guifg=#28def0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SpecialComment ctermfg=67 ctermbg=NONE guifg=#768294 guibg=NONE guisp=NONE cterm=NONE gui=NONE
